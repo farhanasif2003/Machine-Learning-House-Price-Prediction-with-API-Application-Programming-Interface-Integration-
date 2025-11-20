@@ -1,0 +1,26 @@
+Area (sqft),Number_of_rooms,Number_of_Bedrooms,Number_of_Floors,Location,Year_Built,Garage_Size,Property_Type,Furnishing_Status,House_Price
+1660,2,5,2,Dhanmondi,2017,19,Apartment,Semi-Furnished,3528729
+1580,30,25,6,Mirpur-10,2025,30,House,Furnished,28000000
+1930,4,2,3,Mirpur-10,1998,28,House,Furnished,3053291
+1895,4,4,2,Mirpur-10,1997,16,House,,2199657
+,8,1,2,Dhanmondi,2001,26,House,Furnished,3959343
+2969,3,4,2,Mirpur-10,2023,29,Apartment,Semi-Furnished,4369469
+1266,9,2,2,Uttara,2022,,House,Semi-Furnished,2573447
+2038,5,2,2,,2012,14,Apartment,Unfurnished,3763270
+1130,5,1,2,Uttara,2013,16,House,Semi-Furnished,1975043
+,9,2,3,Uttara,2024,22,House,Unfurnished,3720710
+2935,8,5,3,Uttara,2011,24,House,Furnished,5293370
+,7,2,2,Dhanmondi,2016,20,House,Furnished,925751
+2485,7,4,3,Dhanmondi,2024,13,Apartment,Furnished,4136626
+1569,8,4,1,Dhanmondi,1990,22,Apartment,Furnished,3811568
+3191,7,4,2,,2024,16,House,,4440974
+2315,4,4,1,Uttara,2003,,House,Furnished,4619093
+3233,5,5,1,Dhanmondi,1992,11,Apartment,Semi-Furnished,4115679
+2015,8,3,2,,1990,19,House,Semi-Furnished,2561452
+1755,5,1,3,Mirpur-10,1994,22,House,Semi-Furnished,1862081
+3124,9,4,1,Dhanmondi,2015,15,House,Unfurnished,4507037
+1984,2,2,2,Mirpur-10,2003,,Apartment,Furnished,3767709
+1259,4,4,1,Dhaka North,2016,21,Apartment,Furnished,1994786
+821,6,2,1,Dhanmondi,1998,29,Apartment,Furnished,1020278
+3100,4,2,1,Dhaka North,2004,20,House,Unfurnished,5335631
+1547,8,4,1,Mirpur-10,2004,16,House,Semi-Furnished,1679071
